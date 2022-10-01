@@ -3,4 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/cxdign5/github.cxdig.net
     - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp -R /assets/main $DEPLOYPATH
+    - /bin/cp -R assets/main $DEPLOYPATH
